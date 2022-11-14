@@ -3,6 +3,7 @@
 # Files and directories created by pub
 .dart_tool/
 .packages
+.idea/
 build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
@@ -19,3 +20,8 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+*.lock
+android/frp_todo_android.iml
+.idea/vcs.xml
+.idea/libraries/Dart_Packages.xml
+.idea/frp_todo.iml
