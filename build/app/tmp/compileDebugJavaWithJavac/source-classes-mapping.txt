@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/prabusoft/frp_todo/BuildConfig.java
+ com.prabusoft.frp_todo.BuildConfig

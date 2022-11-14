@@ -1,0 +1,4 @@
+#Sun Nov 13 19:20:00 IST 2022
+base.0=/Users/pdwpraburam/Documents/MyProjects/Flutter/frp_todo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
